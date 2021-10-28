@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "fc4987d670720340f2249c26c09168d1",
+    "packages": [
+        {
+            "name": "ivanb/file",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ivanbugae/dz4part2_lib.git",
+                "reference": "0e6555d9b80fbd627e4b7af155d9aef627752597"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ivanbugae/dz4part2_lib/zipball/0e6555d9b80fbd627e4b7af155d9aef627752597",
+                "reference": "0e6555d9b80fbd627e4b7af155d9aef627752597",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.3 || ^7.0 || ^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "myfile.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ivan Bugaev",
+                    "email": "bugaevivan22@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/ivanbugae/dz4part2_lib/issues",
+                "source": "https://github.com/ivanbugae/dz4part2_lib/tree/1.0.0"
+            },
+            "time": "2021-10-25T19:28:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
